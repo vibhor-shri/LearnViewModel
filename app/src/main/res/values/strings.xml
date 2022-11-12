@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearnViewModel</string>
+    <string name="increment">increment</string>
+</resources>
